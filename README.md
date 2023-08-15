@@ -51,4 +51,4 @@ The dataset consists of Strava activity data, including features like distance, 
 To run the project, execute the Jupyter Notebook `MICE_Benchmark.ipynb`. Custom functions used in the project are located in the `Scripts/imputation.py` file.
 
 ## Contact
-Micahel Rowlands - mrowlands314@gmail.com
+Michael Rowlands - mrowlands314@gmail.com
